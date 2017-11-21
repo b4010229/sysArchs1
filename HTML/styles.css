@@ -6,3 +6,7 @@ tr{color:yellow;font-family:Arial;}
 td{color:green;font-family:Arial;}
 table{background-color:black;}
 
+ul{
+  list-style-type: lower-roman;
+  color:yellow;
+  font-family:"Iskoola Pota";
